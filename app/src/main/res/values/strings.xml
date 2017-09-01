@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MYTimeOut</string>
+    <string name="top_title_text">Screen Timeout Selection</string>
+    <string name="status_text">Your current status</string>
+    <string name="status_roaming_text">Currently Roaming Mode</string>
+    <string name="status_development_text">Currently Development Mode</string>
+    <string name="button_off_text">Development Off</string>
+    <string name="button_on_text">Development On</string>
+</resources>
