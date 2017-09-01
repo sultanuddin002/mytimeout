@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\sultan's work\\android workspace\\MYTimeOut\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Shaikh\\.android\\build-cache\\881b652385096295f4a4b2b34d3692af2d0caf28\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\sultan's work\\android workspace\\MYTimeOut\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Shaikh\\.android\\build-cache\\881b652385096295f4a4b2b34d3692af2d0caf28\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\sultan's work\\android workspace\\MYTimeOut\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Shaikh\\.android\\build-cache\\881b652385096295f4a4b2b34d3692af2d0caf28\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\sultan's work\\android workspace\\MYTimeOut\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Shaikh\\.android\\build-cache\\881b652385096295f4a4b2b34d3692af2d0caf28\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\sultan's work\\android workspace\\MYTimeOut\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Shaikh\\.android\\build-cache\\881b652385096295f4a4b2b34d3692af2d0caf28\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\sultan's work\\android workspace\\MYTimeOut\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Shaikh\\.android\\build-cache\\881b652385096295f4a4b2b34d3692af2d0caf28\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\sultan's work\\android workspace\\MYTimeOut\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Shaikh\\.android\\build-cache\\881b652385096295f4a4b2b34d3692af2d0caf28\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\sultan's work\\android workspace\\MYTimeOut\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Shaikh\\.android\\build-cache\\881b652385096295f4a4b2b34d3692af2d0caf28\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\sultan's work\\android workspace\\MYTimeOut\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Shaikh\\.android\\build-cache\\881b652385096295f4a4b2b34d3692af2d0caf28\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\sultan's work\\android workspace\\MYTimeOut\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Shaikh\\.android\\build-cache\\881b652385096295f4a4b2b34d3692af2d0caf28\\output\\res\\anim\\abc_popup_exit.xml"
+    }
+]

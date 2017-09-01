@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\software\Android-sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\sultan&apos;s work\android workspace\MYTimeOut\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_24bfe8aa369cb2705a71437e1015c84433efdec5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shaikh\.android\build-cache\04bb995cb921aa9486a4f230e3ad2a27f2598eec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\sultan&apos;s work\android workspace\MYTimeOut\app\build\intermediates\pre-dexed\debug\classes_0fe867816f96289fa22c5a342143570f0d28346e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shaikh\.android\build-cache\f8e9829de3a82f6a158c095eac52a35dee0db51f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\sultan&apos;s work\android workspace\MYTimeOut\app\build\intermediates\pre-dexed\debug\classes_8c0e1a981b7b0a78201399f4c30537461db6b51b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shaikh\.android\build-cache\2e1c150a2eeabf70cb493214bfb7474bfeed089a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\sultan&apos;s work\android workspace\MYTimeOut\app\build\intermediates\pre-dexed\debug\classes_8b1489d2babbd7ca2728994eee5db9f01b9718e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android-sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\sultan&apos;s work\android workspace\MYTimeOut\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_ad89d2f92a537a6c13244e20444b014774b933f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shaikh\.android\build-cache\b2c240a939e93eb050202d3b019902fd42d5870b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\sultan&apos;s work\android workspace\MYTimeOut\app\build\intermediates\pre-dexed\debug\classes_dae09bd1b7cf5ce452358abc9fa163a54ba9dfbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shaikh\.android\build-cache\91475f03a4544eabc61d57471d1cecc83fd62181\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\sultan&apos;s work\android workspace\MYTimeOut\app\build\intermediates\pre-dexed\debug\classes_27c7e05af9f4deb6be8e0295d0bf4afefac6f48b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shaikh\.android\build-cache\fe7a265341a3d0590368e6e8b6209a66ecf6648c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\sultan&apos;s work\android workspace\MYTimeOut\app\build\intermediates\pre-dexed\debug\classes_e00b3104e00b01f47b6c6adcb767482aa828c838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shaikh\.android\build-cache\ab99bef5a813c8b5d75aa96232f2dc2fdcb1cbcf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\sultan&apos;s work\android workspace\MYTimeOut\app\build\intermediates\pre-dexed\debug\classes_3041692cf68ef2421473847d66d9f200fb0d3ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shaikh\.android\build-cache\a8c201dcd3dfc0e42886951d07cc8c3b962bb5b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\sultan&apos;s work\android workspace\MYTimeOut\app\build\intermediates\pre-dexed\debug\classes_46a6fa8ccc8b7f1d6a27b9b31062fb539ef97acf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shaikh\.android\build-cache\881b652385096295f4a4b2b34d3692af2d0caf28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\sultan&apos;s work\android workspace\MYTimeOut\app\build\intermediates\pre-dexed\debug\classes_1e8bbf5925ccaaacd1a50be84754653e2f0fae5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shaikh\.android\build-cache\89642cf8aa17aae206ed133176e4c22369649621\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\sultan&apos;s work\android workspace\MYTimeOut\app\build\intermediates\pre-dexed\debug\classes_304a02152dc2ec357f73a4c7136ca87edf578544.jar" />
+    </item>
+
+</items>
